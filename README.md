@@ -1,1 +1,1 @@
-# LAB1_LSI
+# LSI_LAB
